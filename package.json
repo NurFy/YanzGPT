@@ -1,0 +1,20 @@
+{
+  "name": "yanzgpt",
+  "version": "1.0.0",
+  "description": "unofficial wrapper/scraper for Yanz-GPT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gpt",
+    "ai",
+    "chat"
+  ],
+  "author": "NurFy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
